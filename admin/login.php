@@ -51,7 +51,7 @@
 </head>
 <body>
   <nav class="navbar navbar-default navbar-fixed-top navbar-light" style="background-color:#38d39f;">
-      <a class="navbar-brand" href="Finance.php" style="color:white;font-size:20px;"><b>Financial Support<b></a>
+      <a class="navbar-brand" href="../Finance.php" style="color:white;font-size:20px;"><b>Startup Smarter<b></a>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="registration.php" style="color:white">Signup for free</a></li>  
       </ul>
